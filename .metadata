@@ -1,0 +1,13 @@
+# This file tracks properties of this Flutter project.
+# It is used by Flutter tooling and should be version controlled.
+
+version:
+  revision: "d3b14c876900e553bc736ca19295fc09e3853e8e"
+  channel: "stable"
+
+project_type: app
+
+migration:
+  platforms:
+    - platform: root
+    - platform: android
